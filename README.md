@@ -3,6 +3,7 @@ ID : CT08SP1053
 Domain : Python 
 Duration : 25th May 2024 to 25th June 2024 
 Mentor : Sravani Gouni
+
 Description : This Python program helps you track student grades throughout a course. Here's a basic outline:
 Data Storage:
 Use dictionaries to store student information. Each key can be a student's ID, and the value can be another dictionary containing details like name, a list of grades for assignments/tests, and the overall average.
